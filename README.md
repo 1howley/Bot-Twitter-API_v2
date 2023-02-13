@@ -12,7 +12,7 @@ Is a simple bot, with the command to create a tweet
 if you want more examples or information, i search and found one guy who has one nice repository.
 https://github.com/tweepy/tweepy/tree/master/examples
 
-//PORTUGUÊS//
+# PORTUGUÊS
 
 O bot foi feito com a biblioteca tweepy (API_v2), em linguagem python.
 É um bot simples, com o comando para criar um tweet
